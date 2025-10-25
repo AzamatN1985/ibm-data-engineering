@@ -12,7 +12,7 @@ IBM Introduction to Data Engineering Certificate Project
 ## Certificate
 ![IBM Certificate](Certificate.jpg)
 
-**[View Certificate (JPG)](certificate.jpg)** | **[Download PDF](IBM_Data_Engineering_Certificate.pdf)**
+**[View Certificate (JPG)](certificate.jpg)** | **[Download PDF](Coursera UV6M3DTQYB6O.pdf)**
 
 **[Verify on Coursera](https://coursera.org/verify/UV6M3DTQYB6O)**
 
@@ -35,7 +35,7 @@ IBM Introduction to Data Engineering Certificate Project
 ---
 
 ## Files
-- [Notebook](simple-data-cleaner.ipynb)  
+- [Notebook](simple_data_cleaner.ipynb)  
 - [Original Data](olist_orders_dataset.csv)  
 - [Cleaned Data](cleaned_orders.csv)
 

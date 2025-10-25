@@ -18,6 +18,29 @@ IBM Introduction to Data Engineering Certificate Project
 
 ---
 
+## Dataset
+- **Source:** [Kaggle – Brazilian E-commerce](https://kaggle.com/datasets/olistbr/brazilian-ecommerce)  
+- **Original:** `olist_orders_dataset.csv` (99K+ rows)  
+- **Sample:** 1000 rows
+
+---
+
+## ETL Pipeline
+1. **Extract** → CSV from Kaggle  
+2. **Transform** →  
+   - `order_status` → UPPER CASE  
+   - `order_purchase_timestamp` → datetime  
+3. **Load** → `cleaned_orders.csv`
+
+---
+
+## Files
+- [Notebook](simple-data-cleaner.ipynb)  
+- [Original Data](olist_orders_dataset.csv)  
+- [Cleaned Data](cleaned_orders.csv)
+
+---
+
 ## Course Progress
 
 | Module | Status | Details |

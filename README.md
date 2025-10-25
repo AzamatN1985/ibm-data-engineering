@@ -10,7 +10,7 @@ IBM Introduction to Data Engineering Certificate Project
 ---
 
 ## Certificate
-![IBM Certificate](certificate.jpg)
+![IBM Certificate](Certificate.jpg)
 
 **[View Certificate (JPG)](certificate.jpg)** | **[Download PDF](IBM_Data_Engineering_Certificate.pdf)**
 

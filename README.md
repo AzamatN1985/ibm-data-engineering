@@ -47,7 +47,8 @@ IBM Introduction to Data Engineering Certificate Project
 |--------|--------|-------|
 | **Module 1** | **Completed** | Python Basics |
 | **Module 2** | **Completed** | Python Data Structures (Tuples, Lists, Dictionaries) |
-| **Module 3** | **In Progress** | Python Programming Fundamentals |
+| **Module 3** | **Completed** | Python Programming Fundamentals |
+| **Module 4** | **In Progress** | Working with Data in Python |
 
 **Goal: IBM Apprenticeship – March 2026**
 

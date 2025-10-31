@@ -17,7 +17,7 @@ IBM Introduction to Data Engineering Certificate Project
 **[Verify on Coursera](https://coursera.org/verify/UV6M3DTQYB6O)**
 
 ---
-
+### 1. Simple Data Cleaner
 ## Dataset
 - **Source:** [Kaggle – Brazilian E-commerce](https://kaggle.com/datasets/olistbr/brazilian-ecommerce)  
 - **Original:** `olist_orders_dataset.csv` (99K+ rows)  
@@ -38,6 +38,18 @@ IBM Introduction to Data Engineering Certificate Project
 - [Notebook](simple_data_cleaner.ipynb)  
 - [Original Data](olist_orders_dataset.csv)  
 - [Cleaned Data](cleaned_orders.csv)
+
+---
+### 2. Student Grades Analyzer
+- **Dataset:** [Kaggle – Students Performance](https://kaggle.com/datasets/spscientist/students-performance-in-exams)  
+- **Tasks:**  
+  - Extract: CSV  
+  - Transform: `math score` → List → Average → Sort  
+  - Load: `analyzed_grades.csv`  
+- **Files:**  
+  - [Notebook](student-grades-analyzer.ipynb)  
+  - [Original](StudentsPerformance.csv)  
+  - [Analyzed](analyzed_grades.csv)
 
 ---
 

@@ -1,41 +1,41 @@
-# ibm-data-engineering  
-IBM Introduction to Data Engineering Certificate Project  
+# ibm-data-engineering
+IBM Introduction to Data Engineering Certificate Project
 
-# IBM Introduction to Data Engineering  
+# IBM Introduction to Data Engineering
 
-**Azamat Normo'minov**  
+**Azamat Normo'minov**
 
 **Certificate Date:** October 21, 2025  
 **Platform:** Coursera (IBM)  
-**Skills:** Python, SQL, ETL, Data Pipelines  
+**Skills:** Python, SQL, ETL, Data Pipelines
 
 ---
 
-### 🎖️ Certificate  
-![IBM Certificate](Certificate.jpg)  
+### 🎖️ Certificate
+![IBM Certificate](Certificate.jpg)
 
-[View Certificate (JPG)](Certificate.jpg) | [Download PDF](Coursera%20UW6JDTOV8Q.pdf)  
+[View Certificate (JPG)](Certificate.jpg) | [Download PDF](Coursera%20UW6JDTOV8Q.pdf)
 
-**Verify on Coursera:** [https://coursera.org/verify/UW6JDTOV8Q](https://coursera.org/verify/UW6JDTOV8Q)  
+**Verify on Coursera:** [https://coursera.org/verify/UW6JDTOV8Q](https://coursera.org/verify/UW6JDTOV8Q)
 
 ---
 
-# 🐍 IBM Python for Data Science, AI & Development  
+# 🐍 IBM Python for Data Science, AI & Development
 
-**Azamat Normo'minov**  
+**Azamat Normo'minov**
 
 **Certificate Date:** November 6, 2025  
 **Platform:** Coursera (IBM)  
-**Skills:** Python, Pandas, NumPy, Matplotlib, APIs, Jupyter, Machine Learning Basics, Web Scraping  
+**Skills:** Python, Pandas, NumPy, Matplotlib, APIs, Jupyter, Machine Learning Basics, Web Scraping
 
 ---
 
-### 🎖️ Certificate  
-![IBM Python Certificate](Certificate2.jpg)  
+### 🎖️ Certificate
+![IBM Python Certificate](Certificate2.jpg)
 
-[View Certificate (JPG)](Certificate2.jpg) | [Download PDF](Coursera%204MDQ87EUISO3.pdf)  
+[View Certificate (JPG)](Certificate2.jpg) | [Download PDF](Coursera%204MDQ87EUISO3.pdf)
 
-**Verify on Coursera:** [https://coursera.org/verify/4MDQ87EUISO3](https://coursera.org/verify/4MDQ87EUISO3)  
+**Verify on Coursera:** [https://coursera.org/verify/4MDQ87EUISO3](https://coursera.org/verify/4MDQ87EUISO3)
 
 
 ---

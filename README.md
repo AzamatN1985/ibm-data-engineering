@@ -31,9 +31,9 @@ IBM Introduction to Data Engineering Certificate Project
 ---
 
 ### 🎖️ Certificate  
-![IBM Python Certificate](CertificatePython.jpg)  
+![IBM Python Certificate](Certificate2.jpg)  
 
-[View Certificate (JPG)](CertificatePython.jpg) | [Download PDF](Coursera%204MDQ87EUISO3.pdf)  
+[View Certificate (JPG)](Certificate2.jpg) | [Download PDF](Coursera%204MDQ87EUISO3.pdf)  
 
 **Verify on Coursera:** [https://coursera.org/verify/4MDQ87EUISO3](https://coursera.org/verify/4MDQ87EUISO3)  
 
